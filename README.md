@@ -1,3 +1,3 @@
 #### Hi :)
 
-https://anthgiang.com/
+My blog: https://anthgiang.com/
