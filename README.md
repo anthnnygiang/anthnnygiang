@@ -1,3 +1,3 @@
 **hi**
 
-blog @ https://www.anthonygiang.com/
+blog @ [anthonygiang.com](https://anthonygiang.com)
